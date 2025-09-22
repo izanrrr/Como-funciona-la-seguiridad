@@ -143,11 +143,12 @@ Conjunto de discos redundantes | Podemos restaurar informacion
 
 
 ## Amenazas y fraudes en los sistemas de la información
-
+``
 Todo aquello que es propiedad de la 
 empresa se denomina __*activo*__. Un activo es tanto el mobiliario de la oficina, como los equipos informáticos, como 
 los datos que se manejan. Cualquier daño que se produzca sobre estos activos tendrá un impacto en la 
 empresa.
+``
 
 __Por eso hay que hacer un plan de actuación__
 
